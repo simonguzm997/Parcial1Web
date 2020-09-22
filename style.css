@@ -1,0 +1,19 @@
+#logoTipo {
+  font-family: "Satisfy";
+  font-size: 35px;
+}
+#carrito {
+  align-items: flex-end;
+  padding: 0;
+}
+.nav-link {
+  padding: 15px;
+}
+.nav-button {
+  background: transparent;
+  border: none !important;
+  padding: 15px;
+}
+footer {
+  text-align: center;
+}
