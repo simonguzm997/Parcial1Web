@@ -1,0 +1,55 @@
+#logoTipo {
+  font-family: "Satisfy";
+  font-size: 35px;
+}
+#btnCarrito {
+  background: transparent;
+  border: none !important;
+  padding: 1px 1px;
+  width: 200px;
+
+  align-content: center;
+}
+.nav-link {
+  padding: 15px;
+}
+.nav-button {
+  background: transparent;
+  border: none !important;
+  padding: 15px;
+  color: white;
+}
+footer {
+  text-align: center;
+}
+.menuTitle {
+  text-align: center;
+}
+
+.card-Price {
+  font-weight: bold;
+}
+
+.card {
+  height: 100%;
+}
+.cardHolder {
+  padding: 4px;
+}
+.card-btn {
+  color: white;
+  background-color: darkslategrey;
+  border-radius: 10%;
+}
+
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  border: solid 1px #ddd;
+  border-collapse: collapse;
+  padding: 2px 3px;
+  text-align: center;
+}
